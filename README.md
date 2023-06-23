@@ -6,9 +6,6 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=bagherkeshmiri" alt="bagherkeshmiri" />
 </a> 
- <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-</a> 
 </p>
 
 - 🔭 I’m currently working on **Anardoni ios app store** [https://anardoni.com/ios](https://anardoni.com/ios)
@@ -24,7 +21,7 @@
 <a href="https://linkedin.com/in/bagherkeshmiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bagherkeshmiri" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
 <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
