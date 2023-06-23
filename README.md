@@ -2,10 +2,13 @@
 <h3 align="center">A passionate Backend developer from Iran</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=bagherkeshmiri&label=Profile%20views&color=0e75b6&style=flat" alt="bagherkeshmiri" /> 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=bagherkeshmiri" alt="bagherkeshmiri" />
 </a> 
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=bagherkeshmiri&label=Profile%20views&color=0e75b6&style=flat" alt="bagherkeshmiri" /> 
 </p>
 
 - 🔭 I’m currently working on **Anardoni ios app store** [https://anardoni.com/ios](https://anardoni.com/ios)
