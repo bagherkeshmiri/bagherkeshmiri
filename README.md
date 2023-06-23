@@ -77,8 +77,14 @@
 
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagherkeshmiri&show_icons=true&locale=en&layout=compact" alt="bagherkeshmiri" />
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bagherkeshmiri&show_icons=true&locale=en&layout=compact" alt="bagherkeshmiri" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bagherkeshmiri&show_icons=true&locale=en" alt="bagherkeshmiri" /></p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bagherkeshmiri&show_icons=true&locale=en" alt="bagherkeshmiri" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bagherkeshmiri&" alt="bagherkeshmiri" /></p>
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bagherkeshmiri&" alt="bagherkeshmiri" />
+</p>
