@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=bagherkeshmiri&label=Profile%20views&color=0e75b6&style=flat" alt="bagherkeshmiri" /> 
+<img src="https://komarev.com/ghpvc/?username=bagherkeshmiri&label=Profile%20views&color=brightgreen&style=flat" alt="bagherkeshmiri" /> 
 </p>
 
 - 🔭 I’m currently working on **Anardoni ios app store** [https://anardoni.com/ios](https://anardoni.com/ios)
